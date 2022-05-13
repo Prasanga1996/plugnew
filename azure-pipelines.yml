@@ -20,6 +20,6 @@ steps:
     location: 'West US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Prasanga1996/plugnew/main/Storage/Storage.json'
-    csmParametersFileLink: 'https://raw.githubusercontent.com/Prasanga1996/plugnew/main/Storage/Parameters.json'
+    csmParametersFileLink: 'https://raw.githubusercontent.com/Prasanga1996/plugnew/main/Storage/Parameters1.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
